@@ -1,7 +1,56 @@
 [
-  {"id":"pictory","name":"Pictory AI","tagline":"Text to Video in 5 mins","price":"$19/mo","commission":"$50 per sale","link":"https://pictory.ai?via=rmw","category":"Video"},
-  {"id":"jasper","name":"Jasper AI","tagline":"AI Copywriter #1","price":"$39/mo","commission":"$35 per sale","link":"https://jasper.ai?via=rmw","category":"Writing"},
-  {"id":"invideo","name":"InVideo AI","tagline":"YouTube Videos Auto","price":"$25/mo","commission":"$50 per sale","link":"https://invideo.io?via=rmw","category":"Video"},
-  {"id":"copyai","name":"Copy.ai","tagline":"AI Sales Copy","price":"$36/mo","commission":"$40 per sale","link":"https://copy.ai?via=rmw","category":"Writing"},
-  {"id":"descript","name":"Descript AI","tagline":"Video Editing like Doc","price":"$15/mo","commission":"$30 per sale","link":"https://descript.com?via=rmw","category":"Video"}
+  {
+    "id": "pictory",
+    "name": "Pictory AI",
+    "tagline": "Text to Video in 5 mins",
+    "price": "$19/mo",
+    "commission": "$50 per sale",
+    "link": "https://pictory.ai?via=rmw",
+    "category": "Video"
+  },
+  {
+    "id": "jasper",
+    "name": "Jasper AI",
+    "tagline": "AI Copywriter #1",
+    "price": "$39/mo",
+    "commission": "$35 per sale",
+    "link": "https://jasper.ai?via=rmw",
+    "category": "Writing"
+  },
+  {
+    "id": "invideo",
+    "name": "InVideo AI",
+    "tagline": "YouTube Videos Auto",
+    "price": "$25/mo",
+    "commission": "$50 per sale",
+    "link": "https://invideo.io?via=rmw",
+    "category": "Video"
+  },
+  {
+    "id": "copyai",
+    "name": "Copy.ai",
+    "tagline": "AI Sales Copy",
+    "price": "$36/mo",
+    "commission": "$40 per sale",
+    "link": "https://copy.ai?via=rmw",
+    "category": "Writing"
+  },
+  {
+    "id": "descript",
+    "name": "Descript AI",
+    "tagline": "Video Editing like Doc",
+    "price": "$15/mo",
+    "commission": "$30 per sale",
+    "link": "https://descript.com?via=rmw",
+    "category": "Video"
+  },
+  {
+    "id": "synthesia",
+    "name": "Synthesia AI",
+    "tagline": "AI Video Avatar #1",
+    "price": "$22/mo",
+    "commission": "$75 per sale",
+    "link": "https://synthesia.io?via=rmw",
+    "category": "Video"
+  }
 ]
