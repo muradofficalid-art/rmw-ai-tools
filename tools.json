@@ -52,5 +52,14 @@
     "commission": "$75 per sale",
     "link": "https://synthesia.io?via=rmw",
     "category": "Video"
+  },
+  {
+    "id": "murfai",
+    "name": "Murf AI",
+    "tagline": "AI Voiceover Studio",
+    "price": "$19/mo",
+    "commission": "$60 per sale",
+    "link": "https://murf.ai?via=rmw",
+    "category": "Audio"
   }
 ]
