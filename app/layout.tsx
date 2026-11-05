@@ -1,3 +1,9 @@
+export const metadata = {
+  verification: {
+    google: "MEBhJFo7YPBFom22dlssggcRCNRnLR1DURvvG1TIcno",
+  },
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
