@@ -1,18 +1,20 @@
+import tools from "../tools.json";
+
 export const metadata = {
-  title: "RMW AI Tools - I Tested 27 AI Tools, These 8 Actually Make Money",
-  description: "No fake reviews. Real earnings proof. RMW Lahore Team ne 27 AI tools pe $500+ kharch karke ye 8 best tools select kiye jo $1200/month kamate hain. 20% OFF + $97 Course FREE.",
+  title: `RMW AI Tools - I Tested 27 AI Tools, These ${tools.length} Actually Make Money`,
+  description: `No fake reviews. Real earnings proof. RMW Lahore Team ne 27 AI tools pe $500+ kharch karke ye ${tools.length} best tools select kiye jo $1200/month kamate hain. 20% OFF + $97 Course FREE.`,
   keywords: ["RMW AI Tools", "Best AI Tools", "AI Tools Make Money", "Pictory", "Jasper", "AI Tools Pakistan", "Earn Money AI"],
   authors: [{ name: "RMW" }],
   openGraph: {
-    title: "RMW AI Tools - These 8 Actually Make Money",
-    description: "I Tested 27 AI Tools. These 8 Actually Make Money. Real Earnings Proof. 20% OFF via RMW Links.",
+    title: `RMW AI Tools - These ${tools.length} Actually Make Money`,
+    description: `I Tested 27 AI Tools. These ${tools.length} Actually Make Money. Real Earnings Proof. 20% OFF via RMW Links.`,
     url: "https://rmw-ai-tools.vercel.app",
     siteName: "RMW AI Tools",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "RMW AI Tools - These 8 Actually Make Money",
+    title: `RMW AI Tools - These ${tools.length} Actually Make Money`,
     description: "No fake reviews. Real earnings proof. Updated Nov 2026 by RMW Lahore Team.",
   },
   robots: {
