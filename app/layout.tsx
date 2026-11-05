@@ -3,6 +3,9 @@ import tools from "../tools.json";
 export const metadata = {
   title: `RMW AI Tools - I Tested 27 AI Tools, These ${tools.length} Actually Make Money`,
   description: `No fake reviews. Real earnings proof. RMW Lahore Team ne 27 AI tools pe $500+ kharch karke ye ${tools.length} best tools select kiye jo $1200/month kamate hain. 20% OFF + $97 Course FREE.`,
+  icons: {
+    icon: "/icon.jpg",
+  },
   keywords: ["RMW AI Tools", "Best AI Tools", "AI Tools Make Money", "Pictory", "Jasper", "AI Tools Pakistan", "Earn Money AI"],
   authors: [{ name: "RMW" }],
   openGraph: {
