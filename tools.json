@@ -61,5 +61,14 @@
     "commission": "$60 per sale",
     "link": "https://murf.ai?via=rmw",
     "category": "Audio"
+  },
+  {
+    "id": "writesonic",
+    "name": "Writesonic AI",
+    "tagline": "AI Writer + SEO",
+    "price": "$16/mo",
+    "commission": "$50 per sale",
+    "link": "https://writesonic.com?via=rmw",
+    "category": "Writing"
   }
 ]
