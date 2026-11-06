@@ -1,5 +1,5 @@
 import tools from "../tools.json";
-import Footer from "@/components/Footer";
+import Footer from "../components/Footer";
 
 export const metadata = {
   title: `RMW AI Tools - I Tested 27 AI Tools, These ${tools.length} Actually Make Money`,
