@@ -70,5 +70,14 @@
     "commission": "$50 per sale",
     "link": "https://writesonic.com?via=rmw",
     "category": "Writing"
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs AI",
+    "tagline": "Realistic AI Voice",
+    "price": "$22/mo",
+    "commission": "$80 per sale",
+    "link": "https://elevenlabs.io?via=rmw",
+    "category": "Audio"
   }
 ]
