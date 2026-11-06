@@ -51,6 +51,24 @@ export default function Home() {
         ))}
       </div>
 
+      {/* BLOG SECTION - HOMEPAGE PE NICHE DIKHEGA */}
+      <div style={{maxWidth:'1100px', margin:'0 auto', padding:'0 20px 60px'}}>
+        <h2 style={{fontSize:'28px', fontWeight:900, textAlign:'center', margin:0}}>Latest Blogs 📝</h2>
+        <p style={{color:'#888', textAlign:'center', fontSize:'14px', marginTop:'8px'}}>AI Tools seekho asan Urdu me - Step by Step Guides</p>
+        <a href="/blog/capcut-se-viral-reels-kaise-banayen" style={{textDecoration:'none', color:'white', display:'block'}}>
+          <div style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'20px', padding:'24px', marginTop:'24px'}}>
+            <span style={{background:'#7c3aed', fontSize:'11px', fontWeight:700, padding:'5px 12px', borderRadius:'20px'}}>Video Editing</span>
+            <h3 style={{fontSize:'22px', fontWeight:700, margin:'14px 0 0', lineHeight:'1.4'}}>CapCut Se 2 Minute Me Viral Reels Kaise Banayen</h3>
+            <p style={{color:'#aaa', fontSize:'14px', marginTop:'8px', lineHeight:'1.6'}}>Bina editing sikhe CapCut AI se viral reels banao. Template, music aur captions ka full tarika.</p>
+            <p style={{color:'#888', fontSize:'12px', marginTop:'12px'}}>6 Nov 2026 • 4 min read</p>
+            <p style={{color:'#c084fc', fontSize:'14px', fontWeight:700, marginTop:'10px'}}>Read Blog →</p>
+          </div>
+        </a>
+        <div style={{textAlign:'center', marginTop:'18px'}}>
+          <a href="/blog" style={{color:'#aaa', fontSize:'14px'}}>View All Blogs →</a>
+        </div>
+      </div>
+
       {/* DETAILS - WHITE SECTION - SAME AS BEFORE */}
       <div style={{background:'white', color:'black', padding:'60px 20px'}}>
         <div style={{maxWidth:'800px', margin:'0 auto'}}>
