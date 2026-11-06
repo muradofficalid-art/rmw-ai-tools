@@ -1,4 +1,5 @@
 import tools from "../tools.json";
+import Footer from "@/components/Footer";
 
 export const metadata = {
   title: `RMW AI Tools - I Tested 27 AI Tools, These ${tools.length} Actually Make Money`,
@@ -34,6 +35,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body style={{margin:0,fontFamily:'sans-serif',background:'#0a0a0a',color:'white'}}>
         {children}
+        <Footer />
       </body>
     </html>
   )
