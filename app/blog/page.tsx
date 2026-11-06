@@ -22,6 +22,16 @@ export default function BlogPage() {
           </div>
         </Link>
 
+        <Link href="/blog/pictory-se-youtube-video-kaise-banayen" style={{ textDecoration: "none", color: "white", display: "block" }}>
+          <div style={{ background: "#ffffff0d", border: "1px solid #ffffff1a", borderRadius: "20px", padding: "24px", marginTop: "16px" }}>
+            <span style={{ background: "#2563eb", fontSize: "11px", fontWeight: 700, padding: "5px 12px", borderRadius: "20px" }}>YOUTUBE</span>
+            <h2 style={{ fontSize: "22px", fontWeight: 700, margin: "14px 0 8px 0", lineHeight: "1.4" }}>Pictory Se Bina Face Dikhae YouTube Video Kaise Banayen</h2>
+            <p style={{ color: "#aaa", fontSize: "14px", lineHeight: "1.6", margin: "0" }}>Bina camera, bina mic ke faceless channel banao. Script se video banane ka full tarika.</p>
+            <p style={{ color: "#888", fontSize: "12px", marginTop: "14px" }}>6 Nov 2026 • 5 min read</p>
+            <p style={{ color: "#60a5fa", fontSize: "14px", fontWeight: 700, margin: "10px 0 0 0" }}>Read Blog →</p>
+          </div>
+        </Link>
+
         <div style={{ textAlign: "center", marginTop: "30px" }}>
           <Link href="/" style={{ color: "#aaa", fontSize: "14px" }}>← Back to Home</Link>
         </div>
