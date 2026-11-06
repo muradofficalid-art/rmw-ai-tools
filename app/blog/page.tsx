@@ -1,36 +1,30 @@
 import Link from "next/link";
 
-const blogs = [
-  {
-    slug: "capcut-se-viral-reels-kaise-banayen",
-    title: "CapCut Se 2 Minute Me Viral Reels Kaise Banayen",
-    desc: "CapCut AI se bina editing sikhe viral reels banao. Step by step guide.",
-    date: "6 Nov 2026",
-    read: "4 min read",
-    category: "Video Editing",
-  },
-];
-
 export default function BlogPage() {
   return (
-    <div className="min-h-screen bg-black text-white px-4 py-10 max-w-6xl mx-auto">
-      <h1 className="text-3xl md:text-5xl font-bold text-center">Latest Blogs - RMW AI Tools</h1>
-      <p className="text-center text-gray-400 mt-3">AI Tools ke bare me asan Urdu/Hindi guides</p>
+    <div style={{ background: "#0a0a0a", color: "white", minHeight: "100vh", padding: "20px 16px", fontFamily: "Inter, sans-serif" }}>
+      <div style={{ maxWidth: "900px", margin: "0 auto" }}>
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+          <a href="/" style={{ color: "white", fontWeight: 900, fontSize: "18px", textDecoration: "none" }}>RMW <span style={{ color: "#a855f7" }}>AI TOOLS</span></a>
+          <a href="/" style={{ color: "#aaa", fontSize: "13px", textDecoration: "none" }}>← Home</a>
+        </div>
 
-      <div className="grid md:grid-cols-2 gap-6 mt-10">
-        {blogs.map((b) => (
-          <Link key={b.slug} href={`/blog/${b.slug}`} className="bg-zinc-900 border border-zinc-800 rounded-2xl p-6 hover:border-purple-500">
-            <span className="text-xs bg-purple-600 px-3 py-1 rounded-full">{b.category}</span>
-            <h2 className="text-xl font-bold mt-4">{b.title}</h2>
-            <p className="text-gray-400 text-sm mt-2">{b.desc}</p>
-            <p className="text-xs text-gray-500 mt-4">{b.date} • {b.read}</p>
-            <p className="text-purple-400 text-sm mt-2 font-semibold">Read Blog →</p>
-          </Link>
-        ))}
-      </div>
+        <h1 style={{ fontSize: "32px", fontWeight: 900, textAlign: "center", margin: "36px 0 8px 0", lineHeight: "1.2" }}>Latest Blogs - RMW AI Tools</h1>
+        <p style={{ textAlign: "center", color: "#888", fontSize: "14px", margin: "0" }}>AI Tools ke bare me asan Urdu/Hindi guides</p>
 
-      <div className="text-center mt-10">
-        <Link href="/" className="text-sm text-gray-400 underline">← Back to Home</Link>
+        <Link href="/blog/capcut-se-viral-reels-kaise-banayen" style={{ textDecoration: "none", color: "white", display: "block" }}>
+          <div style={{ background: "#ffffff0d", border: "1px solid #ffffff1a", borderRadius: "20px", padding: "24px", marginTop: "30px" }}>
+            <span style={{ background: "#7c3aed", fontSize: "11px", fontWeight: 700, padding: "5px 12px", borderRadius: "20px" }}>VIDEO EDITING</span>
+            <h2 style={{ fontSize: "22px", fontWeight: 700, margin: "14px 0 8px 0", lineHeight: "1.4" }}>CapCut Se 2 Minute Me Viral Reels Kaise Banayen</h2>
+            <p style={{ color: "#aaa", fontSize: "14px", lineHeight: "1.6", margin: "0" }}>CapCut AI se bina editing sikhe viral reels banao. Template, music aur captions ka full tarika.</p>
+            <p style={{ color: "#888", fontSize: "12px", marginTop: "14px" }}>6 Nov 2026 • 4 min read</p>
+            <p style={{ color: "#c084fc", fontSize: "14px", fontWeight: 700, margin: "10px 0 0 0" }}>Read Blog →</p>
+          </div>
+        </Link>
+
+        <div style={{ textAlign: "center", marginTop: "30px" }}>
+          <Link href="/" style={{ color: "#aaa", fontSize: "14px" }}>← Back to Home</Link>
+        </div>
       </div>
     </div>
   );
