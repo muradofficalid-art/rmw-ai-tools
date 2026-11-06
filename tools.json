@@ -1,5 +1,14 @@
 [
   {
+    "id": "capcut",
+    "name": "CapCut AI",
+    "tagline": "2 Minute Me Viral Reels Banao",
+    "price": "Free",
+    "commission": "Direct Link",
+    "link": "https://www.capcut.com/",
+    "category": "Video"
+  },
+  {
     "id": "pictory",
     "name": "Pictory AI",
     "tagline": "Text to Video in 5 mins",
