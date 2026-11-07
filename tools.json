@@ -88,5 +88,14 @@
     "commission": "$80 per sale",
     "link": "https://elevenlabs.io?via=rmw",
     "category": "Audio"
+  },
+  {
+    "id": "runway",
+    "name": "Runway ML",
+    "tagline": "AI Video Magic",
+    "price": "$15/mo",
+    "commission": "$45 per sale",
+    "link": "https://runwayml.com?via=rmw",
+    "category": "Video"
   }
 ]
