@@ -51,33 +51,25 @@ export default function Home() {
         ))}
       </div>
 
-      {/* BLOG SECTION - HOMEPAGE PE NICHE DIKHEGA */}
+      {/* BLOG SECTION - 12 BLOGS */}
       <div style={{maxWidth:'1100px', margin:'0 auto', padding:'0 20px 60px'}}>
-        <h2 style={{fontSize:'28px', fontWeight:900, textAlign:'center', margin:0}}>Latest Blogs 📝</h2>
-        <p style={{color:'#888', textAlign:'center', fontSize:'14px', marginTop:'8px'}}>AI Tools seekho asan Urdu me - Step by Step Guides</p>
-        <a href="/blog/capcut-se-viral-reels-kaise-banayen" style={{textDecoration:'none', color:'white', display:'block'}}>
-          <div style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'20px', padding:'24px', marginTop:'24px'}}>
-            <span style={{background:'#7c3aed', fontSize:'11px', fontWeight:700, padding:'5px 12px', borderRadius:'20px'}}>Video Editing</span>
-            <h3 style={{fontSize:'22px', fontWeight:700, margin:'14px 0 0', lineHeight:'1.4'}}>CapCut Se 2 Minute Me Viral Reels Kaise Banayen</h3>
-            <p style={{color:'#aaa', fontSize:'14px', marginTop:'8px', lineHeight:'1.6'}}>Bina editing sikhe CapCut AI se viral reels banao. Template, music aur captions ka full tarika.</p>
-            <p style={{color:'#888', fontSize:'12px', marginTop:'12px'}}>6 Nov 2026 • 4 min read</p>
-            <p style={{color:'#c084fc', fontSize:'14px', fontWeight:700, marginTop:'10px'}}>Read Blog →</p>
-          </div>
-        </a>
-
-        <a href="/blog/pictory-se-youtube-video-kaise-banayen" style={{textDecoration:'none', color:'white', display:'block'}}>
-          <div style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'20px', padding:'24px', marginTop:'16px'}}>
-            <span style={{background:'#2563eb', fontSize:'11px', fontWeight:700, padding:'5px 12px', borderRadius:'20px'}}>YOUTUBE</span>
-            <h3 style={{fontSize:'22px', fontWeight:700, margin:'14px 0 0', lineHeight:'1.4'}}>Pictory Se Bina Face Dikhae YouTube Video Kaise Banayen</h3>
-            <p style={{color:'#aaa', fontSize:'14px', marginTop:'8px', lineHeight:'1.6'}}>Bina camera, bina mic ke faceless channel banao. Script se video banane ka full tarika.</p>
-            <p style={{color:'#888', fontSize:'12px', marginTop:'12px'}}>6 Nov 2026 • 5 min read</p>
-            <p style={{color:'#60a5fa', fontSize:'14px', fontWeight:700, marginTop:'10px'}}>Read Blog →</p>
-          </div>
-        </a>
-
-        <div style={{textAlign:'center', marginTop:'18px'}}>
-          <a href="/blog" style={{color:'#aaa', fontSize:'14px'}}>View All Blogs →</a>
+        <h2 style={{fontSize:'28px', fontWeight:900, textAlign:'center', margin:0}}>Latest Blogs 🔥 AI Se Earning Seekho</h2>
+        <p style={{color:'#888', textAlign:'center', fontSize:'14px', marginTop:'8px'}}>12 Blogs - Step by Step, Asan Urdu Me</p>
+        <div style={{display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(280px,1fr))', gap:'16px', marginTop:'24px'}}>
+          <a href="/blog/capcut-ai-video-edit" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>✂️</div><div style={{fontWeight:800, marginTop:'10px'}}>CapCut AI Se Video Edit Kaise Karein</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/pictory-ai-blog-se-video" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>🎬</div><div style={{fontWeight:800, marginTop:'10px'}}>Pictory AI Se Blog Se Video Kaise Banaye</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/jasper-ai-se-pehli-earning" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>✍️</div><div style={{fontWeight:800, marginTop:'10px'}}>Jasper AI Se Pehli Earning Kaise Kamaye</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/invideo-ai-text-se-video" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>🎬</div><div style={{fontWeight:800, marginTop:'10px'}}>InVideo AI Se Text Se Video Kaise Banaye</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/copy-ai-viral-captions" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>✍️</div><div style={{fontWeight:800, marginTop:'10px'}}>Copy.ai Se Viral Captions Kaise Likhein</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/descript-ai-video-edit" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>✂️</div><div style={{fontWeight:800, marginTop:'10px'}}>Descript AI Se Video Edit Kaise Karein</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/synthesia-ai-bina-camera-video" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>🤖</div><div style={{fontWeight:800, marginTop:'10px'}}>Synthesia AI Se Bina Camera Ke Video</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/murf-ai-real-voice" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>🎙️</div><div style={{fontWeight:800, marginTop:'10px'}}>Murf AI Se Real Jaisi Voice Kaise Banaye</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/runway-ml-ai-video-editor" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>🎬</div><div style={{fontWeight:800, marginTop:'10px'}}>Runway ML Se Pro Jaisa Editing</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/lumen5-blog-se-video" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>🔄</div><div style={{fontWeight:800, marginTop:'10px'}}>Lumen5 Se Blog Ko Video Me Badlein</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/fliki-ai-urdu-voice-video" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>🇵🇰</div><div style={{fontWeight:800, marginTop:'10px'}}>Fliki AI Se Urdu Voice Wali Video</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
+          <a href="/blog/heygen-ai-avatar-video" style={{background:'#ffffff0d', border:'1px solid #ffffff1a', borderRadius:'16px', padding:'18px', textDecoration:'none', color:'white'}}><div style={{fontSize:'30px'}}>👤</div><div style={{fontWeight:800, marginTop:'10px'}}>HeyGen AI Se Apna Avatar Video Banaye</div><div style={{color:'#c084fc', fontSize:'13px', marginTop:'8px'}}>Read →</div></a>
         </div>
+        <div style={{textAlign:'center', marginTop:'20px'}}><a href="/blog" style={{color:'#aaa', fontSize:'14px'}}>View All 12 Blogs →</a></div>
       </div>
 
       {/* DETAILS - WHITE SECTION - SAME AS BEFORE */}
