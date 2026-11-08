@@ -97,5 +97,14 @@
     "commission": "$45 per sale",
     "link": "https://runwayml.com?via=rmw",
     "category": "Video"
+  },
+  {
+    "id": "leonardo",
+    "name": "Leonardo AI",
+    "tagline": "AI Art Generator Pro",
+    "price": "$10/mo",
+    "commission": "$40 per sale",
+    "link": "https://leonardo.ai?via=rmw",
+    "category": "Image"
   }
 ]
