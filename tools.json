@@ -115,5 +115,14 @@
     "commission": "$70 per sale",
     "link": "https://framer.com?via=rmw",
     "category": "Website"
+  },
+  {
+    "id": "durable",
+    "name": "Durable AI",
+    "tagline": "Website in 30 Sec",
+    "price": "$15/mo",
+    "commission": "$60 per sale",
+    "link": "https://durable.co?via=rmw",
+    "category": "Website"
   }
 ]
