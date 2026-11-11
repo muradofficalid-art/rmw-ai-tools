@@ -124,5 +124,14 @@
     "commission": "$60 per sale",
     "link": "https://durable.co?via=rmw",
     "category": "Website"
+  },
+  {
+    "id": "10web",
+    "name": "10Web AI",
+    "tagline": "AI WordPress Builder",
+    "price": "$10/mo",
+    "commission": "$55 per sale",
+    "link": "https://10web.io?via=rmw",
+    "category": "Website"
   }
 ]
