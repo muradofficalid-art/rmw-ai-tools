@@ -133,5 +133,14 @@
     "commission": "$55 per sale",
     "link": "https://10web.io?via=rmw",
     "category": "Website"
+  },
+  {
+    "id": "fliki",
+    "name": "Fliki AI",
+    "tagline": "Text to Video Voice",
+    "price": "$21/mo",
+    "commission": "$50 per sale",
+    "link": "https://fliki.ai?via=rmw",
+    "category": "Video"
   }
 ]
