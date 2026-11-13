@@ -142,5 +142,14 @@
     "commission": "$50 per sale",
     "link": "https://fliki.ai?via=rmw",
     "category": "Video"
+  },
+  {
+    "id": "simplified",
+    "name": "Simplified AI",
+    "tagline": "All-in-One AI Design",
+    "price": "$18/mo",
+    "commission": "$45 per sale",
+    "link": "https://simplified.com?via=rmw",
+    "category": "Design"
   }
 ]
