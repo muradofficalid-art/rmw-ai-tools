@@ -151,5 +151,14 @@
     "commission": "$45 per sale",
     "link": "https://simplified.com?via=rmw",
     "category": "Design"
+  },
+  {
+    "id": "notionai",
+    "name": "Notion AI",
+    "tagline": "AI Workspace",
+    "price": "$10/mo",
+    "commission": "$35 per sale",
+    "link": "https://notion.so?via=rmw",
+    "category": "Productivity"
   }
 ]
