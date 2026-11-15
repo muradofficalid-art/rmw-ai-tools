@@ -160,5 +160,14 @@
     "commission": "$35 per sale",
     "link": "https://notion.so?via=rmw",
     "category": "Productivity"
+  },
+  {
+    "id": "lumen5",
+    "name": "Lumen5 AI",
+    "tagline": "AI Video for Business",
+    "price": "$19/mo",
+    "commission": "$50 per sale",
+    "link": "https://lumen5.com?via=rmw",
+    "category": "Video"
   }
 ]
