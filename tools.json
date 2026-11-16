@@ -169,5 +169,14 @@
     "commission": "$50 per sale",
     "link": "https://lumen5.com?via=rmw",
     "category": "Video"
+  },
+  {
+    "id": "ryrob",
+    "name": "RyRob AI",
+    "tagline": "AI Blog + Affiliate",
+    "price": "$29/mo",
+    "commission": "$65 per sale",
+    "link": "https://ryrob.com?via=rmw",
+    "category": "Writing"
   }
 ]
