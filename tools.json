@@ -178,5 +178,14 @@
     "commission": "$65 per sale",
     "link": "https://ryrob.com?via=rmw",
     "category": "Writing"
+  },
+  {
+    "id": "tome",
+    "name": "Tome AI",
+    "tagline": "AI Presentation Maker",
+    "price": "$16/mo",
+    "commission": "$40 per sale",
+    "link": "https://tome.app?via=rmw",
+    "category": "Productivity"
   }
 ]
