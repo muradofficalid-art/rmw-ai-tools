@@ -180,12 +180,12 @@
     "category": "Writing"
   },
   {
-    "id": "tome",
-    "name": "Tome AI",
-    "tagline": "AI Presentation Maker",
-    "price": "$16/mo",
-    "commission": "$40 per sale",
-    "link": "https://tome.app?via=rmw",
-    "category": "Productivity"
+    "id": "gamma",
+    "name": "Gamma AI",
+    "tagline": "1 Minute Me Pro Presentation Banao",
+    "price": "$20/mo",
+    "commission": "$50 per sale",
+    "link": "https://gamma.app/?via=rmw",
+    "category": "Presentation"
   }
 ]
