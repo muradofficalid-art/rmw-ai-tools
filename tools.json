@@ -187,5 +187,14 @@
     "commission": "$50 per sale",
     "link": "https://gamma.app/?via=rmw",
     "category": "Presentation"
+  },
+  {
+    "id": "tome",
+    "name": "Tome AI",
+    "tagline": "AI Presentation Maker",
+    "price": "$16/mo",
+    "commission": "$40 per sale",
+    "link": "https://tome.app?via=rmw",
+    "category": "Productivity"
   }
 ]
